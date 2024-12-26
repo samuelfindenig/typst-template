@@ -1,0 +1,7 @@
+[package]
+name = "bulme-templetes"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["Samuel Findenig"]
+license = "Unlicense"
+description = "Collection of funktions and templates for Bulme students."
